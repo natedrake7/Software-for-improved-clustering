@@ -1,0 +1,70 @@
+Query: 0
+Nearest Neighbor-0: 1655
+distanceApproximate: 1301.83
+distanceTrue: 1095.86
+tAverageApproximate: 7.0937ms
+tAverageTrue: 36.3262ms
+AF: 1.18795
+Query: 1
+Nearest Neighbor-0: 360
+distanceApproximate: 1830.26
+distanceTrue: 1554.42
+tAverageApproximate: 6.87116ms
+tAverageTrue: 37.0802ms
+AF: 1.17746
+Query: 2
+Nearest Neighbor-0: 1658
+distanceApproximate: 617.898
+distanceTrue: 547.098
+tAverageApproximate: 6.71029ms
+tAverageTrue: 34.8765ms
+AF: 1.12941
+Query: 3
+Nearest Neighbor-0: 1877
+distanceApproximate: 1297.79
+distanceTrue: 1297.79
+tAverageApproximate: 6.95771ms
+tAverageTrue: 36.7631ms
+AF: 1
+Query: 4
+Nearest Neighbor-0: 1732
+distanceApproximate: 1322.51
+distanceTrue: 1322.51
+tAverageApproximate: 10.4319ms
+tAverageTrue: 35.8874ms
+AF: 1
+Query: 5
+Nearest Neighbor-0: 1680
+distanceApproximate: 541.841
+distanceTrue: 541.841
+tAverageApproximate: 7.65799ms
+tAverageTrue: 72.2637ms
+AF: 1
+Query: 6
+Nearest Neighbor-0: 1827
+distanceApproximate: 1899.8
+distanceTrue: 1489.44
+tAverageApproximate: 7.29111ms
+tAverageTrue: 72.6683ms
+AF: 1.27552
+Query: 7
+Nearest Neighbor-0: 1962
+distanceApproximate: 1683.98
+distanceTrue: 1683.98
+tAverageApproximate: 8.04729ms
+tAverageTrue: 74.4302ms
+AF: 1
+Query: 8
+Nearest Neighbor-0: 1685
+distanceApproximate: 2188.66
+distanceTrue: 2168
+tAverageApproximate: 7.60638ms
+tAverageTrue: 79.0464ms
+AF: 1.00953
+Query: 9
+Nearest Neighbor-0: 167
+distanceApproximate: 1391.53
+distanceTrue: 1391.53
+tAverageApproximate: 8.36965ms
+tAverageTrue: 81.0029ms
+AF: 1

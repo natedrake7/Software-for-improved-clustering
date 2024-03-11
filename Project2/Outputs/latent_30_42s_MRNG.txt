@@ -1,0 +1,91 @@
+MRNG results
+Query: 0
+Nearest Neighbor-0: 1191
+distanceApproximate: 1727.74
+distanceLatentTrue: 1727.74
+distanceTrue: 1095.86
+tAverageApproximate: 0.475147ms
+tAverageLatentTrue: 5.39806ms
+tAverageTrue: 74.2256ms
+AF: 1.57661
+Query: 1
+Nearest Neighbor-0: 1874
+distanceApproximate: 1741.45
+distanceLatentTrue: 3121.65
+distanceTrue: 1554.42
+tAverageApproximate: 0.445247ms
+tAverageLatentTrue: 6.81777ms
+tAverageTrue: 70.4319ms
+AF: 1.12032
+Query: 2
+Nearest Neighbor-0: 1697
+distanceApproximate: 547.098
+distanceLatentTrue: 547.098
+distanceTrue: 547.098
+tAverageApproximate: 0.408437ms
+tAverageLatentTrue: 4.62359ms
+tAverageTrue: 81.3799ms
+AF: 1
+Query: 3
+Nearest Neighbor-0: 1502
+distanceApproximate: 1720.06
+distanceLatentTrue: 2925.12
+distanceTrue: 1297.79
+tAverageApproximate: 0.406017ms
+tAverageLatentTrue: 4.63472ms
+tAverageTrue: 62.5189ms
+AF: 1.32538
+Query: 4
+Nearest Neighbor-0: 1630
+distanceApproximate: 1599.94
+distanceLatentTrue: 2408.04
+distanceTrue: 1322.51
+tAverageApproximate: 0.416927ms
+tAverageLatentTrue: 5.80764ms
+tAverageTrue: 54.6315ms
+AF: 1.20978
+Query: 5
+Nearest Neighbor-0: 1681
+distanceApproximate: 705.366
+distanceLatentTrue: 668.563
+distanceTrue: 541.841
+tAverageApproximate: 0.338168ms
+tAverageLatentTrue: 2.61574ms
+tAverageTrue: 78.2601ms
+AF: 1.30179
+Query: 6
+Nearest Neighbor-0: 914
+distanceApproximate: 2360.13
+distanceLatentTrue: 2386.99
+distanceTrue: 1489.44
+tAverageApproximate: 0.351318ms
+tAverageLatentTrue: 7.24803ms
+tAverageTrue: 86.2899ms
+AF: 1.58457
+Query: 7
+Nearest Neighbor-0: 1506
+distanceApproximate: 2162.54
+distanceLatentTrue: 2240.29
+distanceTrue: 1683.98
+tAverageApproximate: 0.405428ms
+tAverageLatentTrue: 3.03841ms
+tAverageTrue: 63.055ms
+AF: 1.28418
+Query: 8
+Nearest Neighbor-0: 1999
+distanceApproximate: 3196.89
+distanceLatentTrue: 2544.74
+distanceTrue: 2168
+tAverageApproximate: 0.456617ms
+tAverageLatentTrue: 2.61168ms
+tAverageTrue: 86.0465ms
+AF: 1.47458
+Query: 9
+Nearest Neighbor-0: 91
+distanceApproximate: 1897.72
+distanceLatentTrue: 2464.27
+distanceTrue: 1391.53
+tAverageApproximate: 0.320598ms
+tAverageLatentTrue: 2.6239ms
+tAverageTrue: 97.3266ms
+AF: 1.36376
